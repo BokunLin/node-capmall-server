@@ -1,0 +1,1 @@
+import { waresModel } from './index';
