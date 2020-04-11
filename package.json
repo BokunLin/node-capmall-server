@@ -18,7 +18,7 @@
     "express-session": "^1.15.6",
     "formidable": "^1.1.1",
     "jade": "~1.11.0",
-    "mongoose": "^4.13.7",
+    "mongoose": "^5.9.7",
     "morgan": "~1.9.0",
     "serve-favicon": "~2.4.5",
     "sha1": "^1.1.1",
