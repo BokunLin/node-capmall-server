@@ -8,11 +8,11 @@ var OSS = require('ali-oss');
 
 var store = new OSS({
 	//* 域
-	region: 'oss-cn-shenzhen',
+	region: '***',
 	//* 密钥id
-	accessKeyId: 'LTAIWA86mKbFeCNP',
+	accessKeyId: '***',
 	//* 密钥
-	accessKeySecret: 'h4TR9RcUthAdlABWHmYbyMLk5AtVOi',
+	accessKeySecret: '***',
 	//* 包名
 	bucket: 'kunine'
 });
